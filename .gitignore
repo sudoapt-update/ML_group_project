@@ -1,0 +1,11 @@
+.venv/
+data/raw/
+data/processed/
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+models/*.joblib
+.vscode/
+.ipynb_checkpoints/

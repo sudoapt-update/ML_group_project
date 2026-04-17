@@ -1,0 +1,7 @@
+pandas
+matplotlib
+joblib
+scikit-learn
+numpy
+emoji
+datasets

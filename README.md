@@ -2,7 +2,8 @@
 
 This project explores domain adaptation for sentiment analysis, moving from formal movie reviews (IMDb) to informal social media posts
 
-Week 9 deliverable — data collection + cleaning.
+Week 9 deliverable — data collection + cleaning
+
 Week 10-11 delivarable — training and testing baseline models (Log Regressioand and Linear SVM for now) and comparison in 2 different domains
 
 ## Layout
